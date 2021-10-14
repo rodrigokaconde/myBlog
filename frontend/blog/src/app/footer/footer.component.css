@@ -1,0 +1,25 @@
+.icoFacebook, .icoInstagram, .icoLinkedin{
+    color:#696969;
+}
+
+.social-network li{
+    display: inline;
+    font-size: 35px;
+    
+}
+
+.icoFacebook:hover{
+    color: #3b5998;
+}
+
+.icoInstagram:hover{
+    color: #c13584;
+}
+
+.icoLinkedin:hover{
+    color: #0072b1;
+}
+
+.contato{
+    background-color: rgba(0, 0, 0, 0.2);
+}

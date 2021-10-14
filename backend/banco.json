@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "nome": "Rodrigo",
+      "mensagem": "Post 1 teste"
+    },
+    {
+      "id": 2,
+      "nome": "José",
+      "mensagem": "Post 2 teste!"
+    },
+    {
+      "nome": "Maria",
+      "mensagem": "Post 3 teste....",
+      "id": 3
+    }
+  ]
+}
